@@ -1,0 +1,13 @@
+body {
+    border: 2px dotted black;
+    display: grid; 
+    justify-content: center;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: green;
+}
